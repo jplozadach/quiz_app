@@ -16,6 +16,7 @@
 		CEB43A46272BFF9A00E71DFE /* quiz_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB43A45272BFF9A00E71DFE /* quiz_appTests.swift */; };
 		CEB43A50272BFF9B00E71DFE /* quiz_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB43A4F272BFF9B00E71DFE /* quiz_appUITests.swift */; };
 		CEB43A52272BFF9B00E71DFE /* quiz_appUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB43A51272BFF9B00E71DFE /* quiz_appUITestsLaunchTests.swift */; };
+		CEB43A5F272C1D8B00E71DFE /* Quiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB43A5E272C1D8B00E71DFE /* Quiz.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CEB43A4B272BFF9A00E71DFE /* quiz_appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = quiz_appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEB43A4F272BFF9B00E71DFE /* quiz_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quiz_appUITests.swift; sourceTree = "<group>"; };
 		CEB43A51272BFF9B00E71DFE /* quiz_appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quiz_appUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CEB43A5E272C1D8B00E71DFE /* Quiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quiz.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				CEB43A37272BFF9800E71DFE /* Assets.xcassets */,
 				CEB43A39272BFF9800E71DFE /* LaunchScreen.storyboard */,
 				CEB43A3C272BFF9900E71DFE /* Info.plist */,
+				CEB43A5E272C1D8B00E71DFE /* Quiz.swift */,
 			);
 			path = quiz_app;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				CEB43A33272BFF5800E71DFE /* ViewController.swift in Sources */,
 				CEB43A2F272BFF5800E71DFE /* AppDelegate.swift in Sources */,
+				CEB43A5F272C1D8B00E71DFE /* Quiz.swift in Sources */,
 				CEB43A31272BFF5800E71DFE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
